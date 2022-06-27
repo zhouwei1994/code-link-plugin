@@ -1,5 +1,6 @@
 ![Animation](https://user-images.githubusercontent.com/62974111/174468768-dcacbfaa-3565-4608-bbb3-9a1b81da4ff0.gif)
-# 通过shift+右键点击页面元素,快速在vscode中定位代码位置
+
+# 通过shift+左键点击页面元素,快速在vscode中定位代码位置
 ## `暂时只支持vue + webpack + （vsCode || webStorm）编辑器`
 
 # 引入
@@ -32,7 +33,7 @@ node server.js
 ```
 
 # 使用
-shift+鼠标右键点击页面元素即可
+shift+鼠标左键点击页面元素即可
 # 注意事项
 * 插件会自动根据生成与开发环境决定是否启用,不会对生产环境造成任何影响
 * 插件启用时,会禁用默认的鼠标右键菜单
