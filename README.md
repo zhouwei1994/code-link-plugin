@@ -1,6 +1,6 @@
 ![Animation](https://user-images.githubusercontent.com/62974111/174468768-dcacbfaa-3565-4608-bbb3-9a1b81da4ff0.gif)
 
-# 通过shift+左键点击页面元素,快速在vscode中定位代码位置
+# 通过shift+左键点击页面元素,快速在vscode或webStorm中定位代码位置
 ## `暂时只支持vue + webpack + （vsCode || webStorm）编辑器`
 
 # 引入
