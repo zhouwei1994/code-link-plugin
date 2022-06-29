@@ -27,6 +27,8 @@
 ### 3. 启动`server.js`的node服务
 * 把server.js拷贝到电脑的任意位置并启动文件
 * 小技巧：把`启动code-link服务.bat`文件拷贝到桌面并修改里面的`server.js`文件路径可点击一件启动服务。
+* webStorm编辑器需要把安装目录配置到系统环境变量上，如下图
+![img.png](img.png)
 ```
 // node运行命令
 node server.js
